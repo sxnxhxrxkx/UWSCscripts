@@ -1,6 +1,6 @@
 # UWSCscripts
-auto scroll & screenshot scripts for slides like kindle books.
-This scripts use UWSC.exe & windows 10's screensthot function([WINDOWS] + [screenshot] key)
+- Auto scroll & screenshot scripts for slides like kindle books.
+- This scripts use UWSC.exe & windows 10's screensthot function([WINDOWS] + [screenshot] key)
 
 # How to Use
 ## 1.download UWSC
@@ -8,11 +8,11 @@ https://www.vector.co.jp/soft/winnt/util/se115105.html
 
 ## 2.open auto scroll slide.
 ex.)kindle book
-https://github.com/sxnxhxrxkx/UWSCscripts/blob/master/img/kindle.png
+![kindle book](https://github.com/sxnxhxrxkx/UWSCscripts/blob/master/img/kindle.png "kindle book")
 
 ## 3.read script on UWSC
-if book scroll left type ->  use "kindle_screenshot_left.UWS"
-if book scroll right type ->  use "kindle_screenshot_right.UWS"
+- if book scroll left type ->  use "kindle_screenshot_left.UWS"
+- if book scroll right type ->  use "kindle_screenshot_right.UWS"
 
 ## 4.run script
 
@@ -27,6 +27,7 @@ if book scroll right type ->  use "kindle_screenshot_right.UWS"
 9. Send the page to the right (left)
 :
 :
+(if you want to stop script, enter [ESC] key)
 
 ## 5.stop script
 Enter [ESC] key, stop running script.
