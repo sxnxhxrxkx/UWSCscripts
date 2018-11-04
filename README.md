@@ -10,9 +10,10 @@ https://www.vector.co.jp/soft/winnt/util/se115105.html
 ex.)kindle book
 ![kindle book](https://github.com/sxnxhxrxkx/UWSCscripts/blob/master/img/kindle.png "kindle book")
 
-## 3.read script on UWSC
+## 3.read script
 - if book scroll left type ->  use "kindle_screenshot_left.UWS"
 - if book scroll right type ->  use "kindle_screenshot_right.UWS"
+![read script](https://github.com/sxnxhxrxkx/UWSCscripts/blob/master/img/read_script.png "read script")
 
 ## 4.run script
 
@@ -29,7 +30,10 @@ ex.)kindle book
 :
 (if you want to stop script, enter [ESC] key)
 
+![run script](https://github.com/sxnxhxrxkx/UWSCscripts/blob/master/img/run_script.png "run script")
+
 ## 5.stop script
 Enter [ESC] key, stop running script.
 
 ## 6.check your Screenshots directory
+![screenshots](https://github.com/sxnxhxrxkx/UWSCscripts/blob/master/img/screenshots.png "screenshots")
