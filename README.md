@@ -26,8 +26,11 @@ ex.)kindle book
 7. Take a screenshot
 8. 0.5 seconds passed
 9. Send the page to the right (left)
+
 :
+
 :
+
 (if you want to stop script, enter [ESC] key)
 
 ![run script](https://github.com/sxnxhxrxkx/UWSCscripts/blob/master/img/run_script.png "run script")
